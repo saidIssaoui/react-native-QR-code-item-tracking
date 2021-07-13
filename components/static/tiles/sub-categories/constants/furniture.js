@@ -1,0 +1,60 @@
+import {WHITE} from '../../../../../constants';
+
+export default [
+  {
+    id: 'armor',
+    icon: require('../../../../../assets/images/sub-categories-icons/furniture/armor.png'),
+    titleColor: '#00580F',
+    subtitleColor: WHITE,
+    categoryId: 'furniture',
+    title: 'Armor',
+  },
+  {
+    id: 'board',
+    icon: require('../../../../../assets/images/sub-categories-icons/furniture/board.png'),
+    titleColor: '#5D43C6',
+    subtitleColor: WHITE,
+    categoryId: 'furniture',
+    title: 'Board',
+  },
+  {
+    id: 'chair',
+    icon: require('../../../../../assets/images/sub-categories-icons/furniture/chair.png'),
+    titleColor: '#6349CE',
+    subtitleColor: WHITE,
+    categoryId: 'furniture',
+    title: 'Chair',
+  },
+  {
+    id: 'desk',
+    icon: require('../../../../../assets/images/sub-categories-icons/furniture/desk.png'),
+    titleColor: '#987600',
+    subtitleColor: WHITE,
+    categoryId: 'furniture',
+    title: 'Desk',
+  },
+  {
+    id: 'lamp',
+    icon: require('../../../../../assets/images/sub-categories-icons/furniture/lamp.png'),
+    titleColor: '#A27500',
+    subtitleColor: WHITE,
+    categoryId: 'furniture',
+    title: 'Lamp',
+  },
+  {
+    id: 'mirror',
+    icon: require('../../../../../assets/images/sub-categories-icons/furniture/mirror.png'),
+    titleColor: '#604333',
+    subtitleColor: WHITE,
+    categoryId: 'furniture',
+    title: 'Mirror',
+  },
+  {
+    id: 'table',
+    icon: require('../../../../../assets/images/sub-categories-icons/furniture/table.png'),
+    titleColor: '#006760',
+    subtitleColor: WHITE,
+    categoryId: 'furniture',
+    title: 'Table',
+  },
+];

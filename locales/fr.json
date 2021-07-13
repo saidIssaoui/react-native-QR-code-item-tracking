@@ -1,0 +1,228 @@
+{
+    "welcome": {
+        "title": "L'application\nQui Ne Laissera Jamais Vos Bien Seuls",
+        "description": "Pharme être présent pour des petites\nchoses qui changent le quotidien",
+        "sign in": "Se connecter",
+        "not now": "Pas maintenent",
+        "have account": "Vous avez déjà un compte ?",
+        "sign up": "S'identifie"
+    },
+    "sign-in": {
+        "Sign in": "Se connecter",
+        "Email address": "Adresse email",
+        "Password": "Mot de passe",
+        "Forgotten password?": "Mot de passe oublié ?",
+        "Or": "Ou bien",
+        "Sign up": "S'identifie"
+    },
+    "forgotten-password": {
+        "step-one": {
+            "Forgotten password": "Mot de passe oublié",
+            "Email address": "Adresse email",
+            "type your": "saisissez votre",
+            "email address": "adresse e-mail",
+            "reinitialize": "pour réinitialiser votre mot de passe."
+        },
+        "step-two": {
+            "Type new password": "Saisissez votre nouveau mot de passe",
+            "New password": "Nouveau mot de passe",
+            "Confirm password": "Confirmation du mot de passe"
+        },
+        "step-three": {
+            "Enter code": "Entrez code",
+            "Check email": "Vérifiez votre boite e-mail,\nnous avons vous envoyé le code à",
+            "Did not receive": "Vous n'avez pas reçu le code ?",
+            "Resend": "Renvoyer"
+        }
+    },
+    "home": {
+        "Welcome": "Bienvenue",
+        "Services": "Services",
+        "Add object": "Ajouter un objet",
+        "Scan": "Scanner",
+        "My catalog": "Mon catalogue",
+        "My members": "Mes membres"
+    },
+    "scan": {
+        "Scan QR code": "Scanner un QR code"
+    },
+    "categories": {
+        "Cancel": "Annuler",
+        "Your category": "Votre catégorie",
+        "Search": "Recherche",
+        "form": {
+            "Cancel": "Annuler",
+            "Details": "Details",
+            "equipment": {
+                "Brand": "Marque",
+                "Size": "Taille",
+                "State": "État",
+                "Precision": "Précision",
+                "Value": "Valeur",
+                "Availability": "Disponibilité"
+            },
+            "tools": {
+                "Brand": "Marque",
+                "Size": "Taille",
+                "State": "État",
+                "Precision": "Précision",
+                "Value": "Valeur",
+                "Availability": "Disponibilité"
+            },
+            "multimedia": {
+                "Brand": "Marque",
+                "Size": "Size",
+                "Model": "Modèle",
+                "Precision": "Précision",
+                "Value": "Valeur",
+                "Availability": "Disponibilité"
+            },
+            "clothing": {
+                "Brand": "Marque",
+                "Size": "Taille",
+                "Color": "Couleur",
+                "State": "État",
+                "Precision": "Précision",
+                "Availability": "Disponibilité"
+            },
+            "vehicule": {
+                "Type": "Type",
+                "Brand": "Marque",
+                "Model": "Modèle",
+                "Fuel": "Carburant",
+                "Year": "Année",
+                "Kilometers": "Kilomètres",
+                "Gray Card": "Photo carte grise"
+            },
+            "books and documents": {
+                "Level": "Niveau",
+                "State": "State",
+                "Precision": "Precision",
+                "Availability": "Availability"
+            },
+            "fixed": {
+                "Situation": "Situation",
+                "Building": "Bâtiment",
+                "Unit": "Unité",
+                "Room #": "N° Salle"
+            },
+            "furniture": {
+                "State": "État",
+                "Building": "Bâtiment",
+                "Location": "Emplacement",
+                "Room #": "N° Chambre",
+                "Date of commissioning": "Date de mise en service"
+            }
+        }
+    },
+    "create-item": {
+        "success": {
+            "Added successfully": "Objet ajouté\nau catalogue\navec succès",
+            "Duplicate": "Dupliquer",
+            "Add an object": "Ajouter un objet"
+        }
+    },
+    "sub categories": {
+        "Cancel": "Annuler",
+        "Your category": "Votre catégorie",
+        "Search": "Recherche"
+    },
+    "photo": {
+        "add": "Ajouter des photos\nPour votre objet",
+        "description": "Taper ici\npour photographier votre objet",
+        "reshoot": "Taper ici pour photographier\nde nouveau votre objet",
+        "picker": "Sélectionner a partir votre gallerie"
+    },
+    "members": {
+        "title": "Mes Membres",
+        "Add member": "Ajouter un membre",
+        "list": {
+            "actions": {
+                "Search": "Recherche",
+                "selected": "sélectionné(s)",
+                "Deselect all": "Désélectionner tout",
+                "Select all": "Sélectionner tout",
+                "Filter": "Filtrer",
+                "Delete": "Supprimer",
+                "Move": "Déplacer"
+            },
+            "Search": "Recherche"
+        },
+        "profile": {
+            "Items": "Objets",
+            "Rendered": "Rendus",
+            "No saved items": "Aucun object\nN'est enregistré"
+        },
+        "settings": {
+            "title": "Paramètres membre",
+            "Gender": "Genre",
+            "Male": "Homme",
+            "Female": "Femme",
+            "Last name": "Nom",
+            "First name": "Prénom",
+            "Status": "Statut",
+            "Department": "Département",
+            "Contract type": "Type contrat",
+            "Fixed-term": "CDD",
+            "Permanent": "CDI",
+            "Email address": "Adresse mail",
+            "Phone number": "Numéro téléphone",
+            "Cancel": "Annuler",
+            "Save": "Sauvegarder",
+            "Add": "Ajouter"
+        }
+    },
+    "catalogue": {
+        "title": "Catalogue",
+        "You don't have any object": "Vous n'avez encore\nUn objet",
+        "start now": "Vous pouvez commencer\nmaintenant en cliquant\nsur ce bouton",
+        "Add an object": "Ajouter un objet"
+    },
+    "profile": {
+        "Account settings": "Paramètres du compte",
+        "Items": "Objets",
+        "Rendered": "Rendus",
+        "Personal information": "Informations personnelles",
+        "Establishment & status": "Établissement et statut",
+        "Notifications settings": "Paramètres de notifications",
+        "Sign out": "Déconnexion",
+        "settings-and-notifications": {
+            "Settings and notifications": "Paramètres et notifications",
+            "Notifications": "Notifications",
+            "Camera": "Caméra",
+            "Preferences": "Préférences",
+            "Contact us": "Contactez-nous",
+            "Frequently asked questions": "Question fréquentes",
+            "Privacy policy": "Politique de confidentialité",
+            "Security": "Sécurité",
+            "Around us": "Autour de nous",
+            "Rate the app": "Évaluez l'application"
+        },
+        "establishment-information": {
+            "title": "Information d'emploi",
+            "Establishment name": "Nom de l'établissement",
+            "SIRET Number": "Numéro SIRET",
+            "Gender": "Genre",
+            "Male": "Homme",
+            "Female": "Femme",
+            "Status": "Statut",
+            "Department": "Département",
+            "Email address of your work": "Adresse Mail de votre boulot",
+            "Phone number": "Numéro de téléphone",
+            "Continue": "Continuer"
+        },
+        "personal-information": {
+            "title": "Informations personnelles",
+            "Gender": "Genre",
+            "Male": "Homme",
+            "Female": "Femme",
+            "First name & Last name": "Nom et prénom",
+            "Email address of your work": "Adresse Mail de votre boulot",
+            "Phone number": "Numéro de téléphone",
+            "Save": "Sauvegarder"
+        }
+    },
+    "Cancel": "Annuler",
+    "Category:": "Catégorie :",
+    "Assigned to:": "Attribué à :"
+}

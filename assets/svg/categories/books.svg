@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="161" height="154.001" viewBox="0 0 161 154.001">
+  <defs>
+    <filter id="Rectangle_" x="87" y="-76.999" width="161" height="154" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2" x="-56" y="61.001" width="196" height="154" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.205" y1="0.23" x2="0.937" y2="1.042" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#74cac4"/>
+      <stop offset="1" stop-color="#e3fffd"/>
+    </linearGradient>
+    <filter id="Rectangle_3" x="0" y="0.001" width="161" height="154" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_5" x="0" y="0" width="161" height="154" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_19156" data-name="Group 19156" transform="translate(1985 -2610.999)">
+    <g id="Group_19144" data-name="Group 19144" transform="translate(-143 125)">
+      <g transform="matrix(1, 0, 0, 1, -1842, 2486)" filter="url(#Rectangle_3)">
+        <rect id="Rectangle_4" data-name="Rectangle " width="143" height="136" rx="30" transform="translate(9 6)" opacity="0.8" fill="url(#linear-gradient)"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -1842, 2486)" filter="url(#Union_5)">
+        <path id="Union_5-2" data-name="Union 5" d="M86,213a30,30,0,0,1-30-30V138h92a30,30,0,0,1,30,30v43.627A29.974,29.974,0,0,1,169,213Zm87-77a30,30,0,0,1-30-30V77h26a30,30,0,0,1,30,30v29Z" transform="translate(-47 -71)" fill="#74cac4" opacity="0.8"/>
+      </g>
+    </g>
+    <g id="Iconly_Light_Document" data-name="Iconly/Light/Document" transform="translate(-1871 2630.2)">
+      <g id="Document" transform="translate(0 0)">
+        <path id="Stroke_4" data-name="Stroke 4" d="M18.026,0,6.626.007C2.534.036,0,3.141,0,7.877V23.6c0,4.76,2.553,7.877,6.681,7.877l11.4-.005c7.1,0,6.627,1.759,6.627-7.872V7.877C24.708,3.117,22.154,0,18.026,0Z" transform="translate(0 0)" fill="#fff"/>
+        <path id="Stroke_1" data-name="Stroke 1" d="M22.767.5H0" transform="translate(1.005 22.538)" fill="none" stroke="#78cbc6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Stroke_1-2" data-name="Stroke 1" d="M15.482.5H0" transform="translate(4.611 25.627)" fill="none" stroke="#78cbc6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Stroke_1-3" data-name="Stroke 1" d="M6.661.5H0" transform="translate(9.022 28.715)" fill="none" stroke="#78cbc6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

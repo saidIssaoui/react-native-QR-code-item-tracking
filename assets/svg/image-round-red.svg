@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="62" viewBox="0 0 62 62">
+  <g id="Group_17589" data-name="Group 17589" transform="translate(-10356 9)">
+    <path id="Path_11139" data-name="Path 11139" d="M31,0A31,31,0,1,1,0,31,31,31,0,0,1,31,0Z" transform="translate(10356 -9)" fill="#ee736f" opacity="0.5"/>
+    <g id="Icon_awesome-image" data-name="Icon awesome-image" transform="translate(10373 12)">
+      <path id="Icon_awesome-image-2" data-name="Icon awesome-image" d="M26.212,26.193H2.712A2.712,2.712,0,0,1,0,23.481V7.212A2.712,2.712,0,0,1,2.712,4.5h23.5a2.712,2.712,0,0,1,2.712,2.712V23.481A2.712,2.712,0,0,1,26.212,26.193ZM6.327,7.663A3.163,3.163,0,1,0,9.49,10.827,3.163,3.163,0,0,0,6.327,7.663ZM3.615,22.577H25.308V16.25l-4.944-4.944a.678.678,0,0,0-.959,0L11.75,18.962,8.614,15.826a.678.678,0,0,0-.959,0l-4.04,4.04Z" transform="translate(0 -4.5)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

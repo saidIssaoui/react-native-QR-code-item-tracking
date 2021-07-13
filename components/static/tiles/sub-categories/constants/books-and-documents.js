@@ -1,0 +1,68 @@
+import {WHITE} from '../../../../../constants';
+
+export default [
+  {
+    id: 'scholar',
+    icon: require('../../../../../assets/images/sub-categories-icons/books-and-documents/scholar.png'),
+    titleColor: '#00580F',
+    subtitleColor: WHITE,
+    categoryId: 'books-and-documents',
+    title: 'Scholar',
+  },
+  {
+    id: 'folder',
+    icon: require('../../../../../assets/images/sub-categories-icons/books-and-documents/folder.png'),
+    titleColor: '#5D43C6',
+    subtitleColor: WHITE,
+    categoryId: 'books-and-documents',
+    title: 'Folder',
+  },
+  {
+    id: 'history',
+    icon: require('../../../../../assets/images/sub-categories-icons/books-and-documents/history.png'),
+    titleColor: '#6349CE',
+    subtitleColor: WHITE,
+    categoryId: 'books-and-documents',
+    title: 'History',
+  },
+  {
+    id: 'maths',
+    icon: require('../../../../../assets/images/sub-categories-icons/books-and-documents/maths.png'),
+    titleColor: '#987600',
+    subtitleColor: WHITE,
+    categoryId: 'books-and-documents',
+    title: 'Maths',
+  },
+  {
+    id: 'physics',
+    icon: require('../../../../../assets/images/sub-categories-icons/books-and-documents/physics.png'),
+    titleColor: '#A27500',
+    subtitleColor: WHITE,
+    categoryId: 'books-and-documents',
+    title: 'Physics',
+  },
+  {
+    id: 'science',
+    icon: require('../../../../../assets/images/sub-categories-icons/books-and-documents/science.png'),
+    titleColor: '#604333',
+    subtitleColor: WHITE,
+    categoryId: 'books-and-documents',
+    title: 'Science',
+  },
+  {
+    id: 'language',
+    icon: require('../../../../../assets/images/sub-categories-icons/books-and-documents/language.png'),
+    titleColor: '#006760',
+    subtitleColor: WHITE,
+    categoryId: 'books-and-documents',
+    title: 'Language',
+  },
+  {
+    id: 'thriller',
+    icon: require('../../../../../assets/images/sub-categories-icons/books-and-documents/thriller.png'),
+    titleColor: '#E24F4A',
+    subtitleColor: WHITE,
+    categoryId: 'books-and-documents',
+    title: 'Thriller',
+  },
+];

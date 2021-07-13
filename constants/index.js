@@ -1,0 +1,19 @@
+export const APP_VERSION = '1.0.0';
+// Colors
+export const APP_GRAY = '#707070';
+export const APP_DARK_GRAY = '#666666';
+export const APP_CANCEL_GRAY = '#9d9d9d';
+export const APP_PURPLE = '#7250f2';
+export const APP_RED = '#ee736f';
+export const APP_GREEN = '#59c4bd';
+export const APP_ORANGE = '#f39e2c';
+export const APP_YELLOW = '#F7C544';
+export const WHITE = '#ffffff';
+export const BLACK = '#000000';
+export const BLACK_TRANSPARENT = 'rgba(0, 0, 0, .2)';
+export const AMBER = '#F0C65D';
+export const APP_GREEN_TEXT = '#0AA345';
+export const APP_RED_MEMBER_RIBBON = '#DF7A73';
+export const APP_LIGHT_RED_MEMBER_RIBBON = '#FFD9D8';
+export const APP_PURPLE_MEMBER_RIBBON = '#7250F1';
+export const APP_LIGHT_PURPLE_MEMBER_RIBBON = '#E2DAFD';

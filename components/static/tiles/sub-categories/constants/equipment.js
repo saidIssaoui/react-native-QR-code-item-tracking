@@ -1,0 +1,60 @@
+import {WHITE} from '../../../../../constants';
+
+export default [
+  {
+    id: 'construction-site',
+    icon: require('../../../../../assets/images/sub-categories-icons/equipment/construction-site.png'),
+    titleColor: '#00580F',
+    subtitleColor: WHITE,
+    categoryId: 'equipment',
+    title: 'Construction Site',
+  },
+  {
+    id: 'diy',
+    icon: require('../../../../../assets/images/sub-categories-icons/equipment/diy.png'),
+    titleColor: '#5D43C6',
+    subtitleColor: WHITE,
+    categoryId: 'equipment',
+    title: 'DIY',
+  },
+  {
+    id: 'nautical',
+    icon: require('../../../../../assets/images/sub-categories-icons/equipment/nautical.png'),
+    titleColor: '#6349CE',
+    subtitleColor: WHITE,
+    categoryId: 'equipment',
+    title: 'Nautical',
+  },
+  {
+    id: 'photo-and-filming',
+    icon: require('../../../../../assets/images/sub-categories-icons/equipment/photo-and-filming.png'),
+    titleColor: '#A27500',
+    subtitleColor: WHITE,
+    categoryId: 'equipment',
+    title: 'Photo & Filming',
+  },
+  {
+    id: 'sail',
+    icon: require('../../../../../assets/images/sub-categories-icons/equipment/sail.png'),
+    titleColor: '#604333',
+    subtitleColor: WHITE,
+    categoryId: 'equipment',
+    title: 'Sail',
+  },
+  {
+    id: 'sound',
+    icon: require('../../../../../assets/images/sub-categories-icons/equipment/sound.png'),
+    titleColor: '#006760',
+    subtitleColor: WHITE,
+    categoryId: 'equipment',
+    title: 'Sound',
+  },
+  {
+    id: 'sport',
+    icon: require('../../../../../assets/images/sub-categories-icons/equipment/sport.png'),
+    titleColor: '#E24F4A',
+    subtitleColor: WHITE,
+    categoryId: 'equipment',
+    title: 'Sport',
+  },
+];

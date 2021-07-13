@@ -1,0 +1,60 @@
+import {WHITE} from '../../../../../constants';
+
+export default [
+  {
+    id: 'accessories',
+    icon: require('../../../../../assets/images/sub-categories-icons/multimedia/accessories.png'),
+    titleColor: '#00580F',
+    subtitleColor: WHITE,
+    categoryId: 'multimedia',
+    title: 'Accessories',
+  },
+  {
+    id: 'calculator',
+    icon: require('../../../../../assets/images/sub-categories-icons/multimedia/calculator.png'),
+    titleColor: '#5D43C6',
+    subtitleColor: WHITE,
+    categoryId: 'multimedia',
+    title: 'Calculator',
+  },
+  {
+    id: 'pc',
+    icon: require('../../../../../assets/images/sub-categories-icons/multimedia/pc.png'),
+    titleColor: '#6349CE',
+    subtitleColor: WHITE,
+    categoryId: 'multimedia',
+    title: 'PC',
+  },
+  {
+    id: 'phone',
+    icon: require('../../../../../assets/images/sub-categories-icons/multimedia/phone.png'),
+    titleColor: '#987600',
+    subtitleColor: WHITE,
+    categoryId: 'multimedia',
+    title: 'Phone',
+  },
+  {
+    id: 'printer',
+    icon: require('../../../../../assets/images/sub-categories-icons/multimedia/printer.png'),
+    titleColor: '#A27500',
+    subtitleColor: WHITE,
+    categoryId: 'multimedia',
+    title: 'Printer',
+  },
+  {
+    id: 'tablet',
+    icon: require('../../../../../assets/images/sub-categories-icons/multimedia/tablet.png'),
+    titleColor: '#604333',
+    subtitleColor: WHITE,
+    categoryId: 'multimedia',
+    title: 'Tablet',
+  },
+  {
+    id: 'usb',
+    icon: require('../../../../../assets/images/sub-categories-icons/multimedia/usb.png'),
+    titleColor: '#006760',
+    subtitleColor: WHITE,
+    categoryId: 'multimedia',
+    title: 'USB',
+  },
+];

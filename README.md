@@ -67,6 +67,18 @@
 [![Product Name Screen Shot 3][product-screenshot-3]]()
 [![Product Name Screen Shot 4][product-screenshot-4]]()
 
+The application is a mobile application developed using React Native and JavaScript. This application is designed to allow users to scan QR codes and track items. This application is particularly useful for inventory management and tracking of products, assets, or equipment.
+
+The application utilizes React Native, which is a framework for building mobile apps using JavaScript and React. This allows for faster development and better performance than traditional hybrid apps. The app also makes use of JavaScript, which is a widely-used programming language that is easy to learn and use.
+
+One of the key features of the application is the QR code scanning functionality. The app uses the device's camera to scan QR codes and retrieve information about the item, such as its location, status, and history. This allows users to quickly and easily track items and manage their inventory.
+
+The application also has an intuitive user interface that makes it easy for users to scan QR codes and view item information. Users can also view the history of an item, including its location and status over time.
+
+In addition, the application has robust security features that keep item data safe and secure. The app uses industry-standard encryption algorithms to protect item data, and ensures that sensitive information is not compromised.
+
+Overall, the "react-native-QR-code-item-tracking" application is a powerful tool for anyone who wants to keep track of items, whether it is products, assets, or equipment. It's designed to be user-friendly, efficient, and to provide real-time information and tracking of the items, it will help you improve your inventory management and decision making process.
+
 There are many applications to manage and track your items available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a react native application so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:

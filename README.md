@@ -79,7 +79,7 @@ In addition, the application has robust security features that keep item data sa
 
 Overall, the "react-native-QR-code-item-tracking" application is a powerful tool for anyone who wants to keep track of items, whether it is products, assets, or equipment. It's designed to be user-friendly, efficient, and to provide real-time information and tracking of the items, it will help you improve your inventory management and decision making process.
 
-There are many applications to manage and track your items available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a react native application so amazing that it'll be the last one you ever need -- I think this is it.
+There are many applications to manage and track your items available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a react native application so amazing that it'll be the last one you ever need .
 
 Here's why:
 * Your time should be focused on excuting the task. The application will track and report the lost item.
